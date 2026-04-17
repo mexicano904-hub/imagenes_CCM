@@ -36,8 +36,8 @@
   {"id": 5035, "nombre": "SGFld29u", "desbloqueado": false}, // Haewon
   {"id": 5036, "nombre": "U3VsbHlvbg==", "desbloqueado": false}, // Sullyoon
   {"id": 5037, "nombre": "Sml3b28=", "desbloqueado": false}, // Jiwon
-  {"id": 5038, "nombre": "TGl lilyQ==", "desbloqueado": false}, // Lily
-  {"id": 5039, "nombre": "SmluaQ==", "desbloqueado": false}, // Jinni
+  {"id": 5038, "nombre": "TGlseQ==", "desbloqueado": false}, // Lily
+  {"id": 5039, "nombre": "Smlubmk=", "desbloqueado": false}, // Jinni
   {"id": 5040, "nombre": "S3l1amlu", "desbloqueado": false}, // Kyujin
   {"id": 5041, "nombre": "QmFl", "desbloqueado": false}, // Bae
   {"id": 5042, "nombre": "TWlubmll", "desbloqueado": false}, // Minnie
@@ -48,17 +48,17 @@
   {"id": 5047, "nombre": "U29vamlu", "desbloqueado": false}, // Soojin
   {"id": 5048, "nombre": "V29ueW91bmc=", "desbloqueado": false}, // Wonyoung
   {"id": 5049, "nombre": "TGVlc2Vv", "desbloqueado": false}, // Leeseo
-  {"id": 5050, "nombre": "UmVi", "desbloqueado": false}, // Rei
+  {"id": 5050, "nombre": "UmVp", "desbloqueado": false}, // Rei
   {"id": 5051, "nombre": "TGl6", "desbloqueado": false}, // Liz
   {"id": 5052, "nombre": "WXUtSmlu", "desbloqueado": false}, // Yu-Jin
   {"id": 5053, "nombre": "R2FldWw=", "desbloqueado": false}, // Gaeul
   {"id": 5054, "nombre": "RW1tYSBXYXRzb24=", "desbloqueado": false}, // Emma Watson
-  {"id": 5055, "nombre": "SmVubmllZiBMYXdyZW5jZQ==", "desbloqueado": false}, // Jennifer Lawrence
+  {"id": 5055, "nombre": "SmVubmlmZXIgTGF3cmVuY2U=", "desbloqueado": false}, // Jennifer Lawrence
   {"id": 5056, "nombre": "RXN0ZXIgRXhww7NzaXRv", "desbloqueado": false}, // Ester Expósito
   {"id": 5057, "nombre": "U2NhcmxldHQgSm9oYW5zc29u", "desbloqueado": false}, // Scarlett Johansson
   {"id": 5058, "nombre": "TWlsbGllIEJvYmJ5IEJyb3du", "desbloqueado": false}, // Millie Bobby Brown
   {"id": 5059, "nombre": "QW5uZSBIYXRoYXdheQ==", "desbloqueado": false}, // Anne Hathaway
-  {"id": 5060, "nombre": "SmVubmllZiBMb3Bleg==", "desbloqueado": false}, // Jennifer Lopez
+  {"id": 5060, "nombre": "SmVubmlmZXIgTG9wZXo=", "desbloqueado": false}, // Jennifer Lopez
   {"id": 5061, "nombre": "Q2hsb2UgR3JhY2UgTW9yZXR6", "desbloqueado": false}, // Chloe Grace Moretz
   {"id": 5062, "nombre": "RW1pbGlhIENsYXJrZQ==", "desbloqueado": false}, // Emilia Clarke
   {"id": 5063, "nombre": "TWFyZ290IFJvYmJpZQ==", "desbloqueado": false}, // Margot Robbie
@@ -136,7 +136,7 @@
   {"id": 5135, "nombre": "QWxleCBNb3JnYW4=", "desbloqueado": false}, // Alex Morgan
   {"id": 5136, "nombre": "QmVsaW5kYQ==", "desbloqueado": false}, // Belinda
   {"id": 5137, "nombre": "RWxsaWUgR291bGRpbmc=", "desbloqueado": false}, // Ellie Goulding
-  {"id": 5138, "nombre": "U2FicmluYSBDYXCarpenterter", "desbloqueado": false}, // Sabrina Carpenter
+  {"id": 5138, "nombre": "U2FicmluYSBDYXJwZW50ZXI=", "desbloqueado": false}, // Sabrina Carpenter
   {"id": 5139, "nombre": "Q2F6enU=", "desbloqueado": false}, // Cazzu
   {"id": 5140, "nombre": "SmVubnkgUml2ZXJh", "desbloqueado": false}, // Jenni Rivera
   {"id": 5141, "nombre": "WGltZW5hIENvcmRvYmE=", "desbloqueado": false}, // Ximena Cordoba
@@ -186,7 +186,7 @@
   {"id": 5185, "nombre": "VmFubmVzYSBIdXBwZW5rb3RoZW4=", "desbloqueado": false}, // Vanessa Huppenkothen
   {"id": 5186, "nombre": "VHlsYQ==", "desbloqueado": false}, // Tyla
   {"id": 5187, "nombre": "TWVsYW5pZSBNYXJ0aW5leg==", "desbloqueado": false}, // Melanie Martinez
-  {"id": 5188, "nombre": "U2FySaraBMYXJzc29u", "desbloqueado": false}, // Zara Larsson
+  {"id": 5188, "nombre": "WmFyYSBMYXJzc29u", "desbloqueado": false}, // Zara Larsson
   {"id": 5189, "nombre": "SWdneSBBemFsZWE=", "desbloqueado": false}, // Iggy Azalea
   {"id": 5190, "nombre": "RG9qYSBDYXQ=", "desbloqueado": false}, // Doja Cat
   {"id": 5191, "nombre": "R2xvcmlhIFRyZXZp", "desbloqueado": false}, // Gloria Trevi
@@ -227,7 +227,7 @@
   {"id": 5226, "nombre": "QWRpc3NvbiBSYWU=", "desbloqueado": false}, // Addison Rae
   {"id": 5227, "nombre": "TWFkaXNvbiBCZWVy", "desbloqueado": false}, // Madison Beer
   {"id": 5228, "nombre": "Q2FybGEgTW9ycmlzb24=", "desbloqueado": false}, // Carla Morrison
-  {"id": 5229, "nombre": "QWxlejFuZHJhIEd1em3DoW4=", "desbloqueado": false}, // Alejandra Guzmán
+  {"id": 5229, "nombre": "QWxlamFuZHJhIEd1em3DoW4=", "desbloqueado": false}, // Alejandra Guzmán
   {"id": 5230, "nombre": "UmVnaW5hIFBhdm9u", "desbloqueado": false}, // Regina Pavon
   {"id": 5231, "nombre": "VG9raXNoYQ==", "desbloqueado": false}, // Tokischa
   {"id": 5232, "nombre": "QmVsYW5vdmE=", "desbloqueado": false}, // Belanova

@@ -9,17 +9,17 @@
   {"id": 8, "nombre": "TW9yZ2FuIEZyZWVtYW4=", "desbloqueado": false}, // Morgan Freeman
   {"id": 9, "nombre": "SGVucnkgQ2F2aWxs", "desbloqueado": false}, // Henry Cavill
   {"id": 10, "nombre": "U2lsdmVzdGVyIFN0YWxvbmU=", "desbloqueado": false}, // Sylvester Stallone
-  {"id": 11, "nombre": "QnJhZGxleyBDb29wZXI=", "desbloqueado": false}, // Bradley Cooper
+  {"id": 11, "nombre": "QnJhZGxleSBDb29wZXI=", "desbloqueado": false}, // Bradley Cooper
   {"id": 12, "nombre": "Tmljb2xhcyBDYWdl", "desbloqueado": false}, // Nicolas Cage
   {"id": 13, "nombre": "QWRhbSBTYW5kbGVy", "desbloqueado": false}, // Adam Sandler
-  {"id": 14, "nombre": "Q2hyaXMgSGVtc1dvcnRo", "desbloqueado": false}, // Chris Hemsworth
+  {"id": 14, "nombre": "Q2hyaXMgSGVtc3dvcnRo", "desbloqueado": false}, // Chris Hemsworth
   {"id": 15, "nombre": "Um9iZXJ0IGRlIE5pcm8=", "desbloqueado": false}, // Robert de Niro
   {"id": 16, "nombre": "VG9tIEhvbGxhbmQ=", "desbloqueado": false}, // Tom Holland
   {"id": 17, "nombre": "TWFyayBXYWhsYmVyZw==", "desbloqueado": false}, // Mark Wahlberg
   {"id": 18, "nombre": "Q2hyaXMgRXZhbnM=", "desbloqueado": false}, // Chris Evans
   {"id": 19, "nombre": "TGVvbmFyZG8gRGlDYXByaW8=", "desbloqueado": false}, // Leonardo DiCaprio
   {"id": 20, "nombre": "TWVsIEdpYnNvbg==", "desbloqueado": false}, // Mel Gibson
-  {"id": 21, "nombre": "UnlhbiBSZXlub2Reynolds==", "desbloqueado": false}, // Ryan Reynolds
+  {"id": 21, "nombre": "UnlhbiBSZXlub2xkcw==", "desbloqueado": false}, // Ryan Reynolds
   {"id": 22, "nombre": "S2VhbnUgUmVldmVz", "desbloqueado": false}, // Keanu Reeves
   {"id": 23, "nombre": "SmltIENhcnJleQ==", "desbloqueado": false}, // Jim Carrey
   {"id": 24, "nombre": "QnJ1Y2UgV2lsaXM=", "desbloqueado": false}, // Bruce Willis
@@ -27,15 +27,15 @@
   {"id": 26, "nombre": "WmFjIEVmcm9u", "desbloqueado": false}, // Zac Efron
   {"id": 27, "nombre": "Sm9obm55IERlcHA=", "desbloqueado": false}, // Johnny Depp
   {"id": 28, "nombre": "RHdheW5lIEpvaG5zb24=", "desbloqueado": false}, // Dwayne Johnson
-  {"id": 29, "nombre": "VmlsbCBTbWl0aA==", "desbloqueado": false}, // Will Smith
+  {"id": 29, "nombre": "V2lsbCBTbWl0aA==", "desbloqueado": false}, // Will Smith
   {"id": 30, "nombre": "QmVuIEFmZmxlY2s=", "desbloqueado": false}, // Ben Affleck
   {"id": 31, "nombre": "SmFzb24gTW9tb2E=", "desbloqueado": false}, // Jason Momoa
   {"id": 32, "nombre": "VG9tIENydWlzZQ==", "desbloqueado": false}, // Tom Cruise
   {"id": 33, "nombre": "UGF1bCBXYWxrZXI=", "desbloqueado": false}, // Paul Walker
-  {"id": 34, "nombre": "SmVmZnJleyBEZWFuIE1vcmdhbg==", "desbloqueado": false}, // Jeffrey Dean Morgan
+  {"id": 34, "nombre": "SmVmZnJleSBEZWFuIE1vcmdhbg==", "desbloqueado": false}, // Jeffrey Dean Morgan
   {"id": 35, "nombre": "VmljdG9yIE1lbmRpdmls", "desbloqueado": false}, // Victor Mendivil
   {"id": 36, "nombre": "UGVzbyBQbHVtYQ==", "desbloqueado": false}, // Peso Pluma
-  {"id": 37, "nombre": "SmFyZW Jared TGV0bw==", "desbloqueado": false}, // Jared Leto
+  {"id": 37, "nombre": "SmFyZWQgTGV0bw==", "desbloqueado": false}, // Jared Leto
   {"id": 38, "nombre": "U2FtdWVsIEwuIEphY2tzb24=", "desbloqueado": false}, // Samuel L. Jackson
   {"id": 39, "nombre": "UGVkcm8gcGFzY2Fs", "desbloqueado": false}, // Pedro pascal
   {"id": 40, "nombre": "VG9tIEhhbmtz", "desbloqueado": false}, // Tom Hanks
@@ -68,7 +68,7 @@
   {"id": 67, "nombre": "RG9uIE9tYXI=", "desbloqueado": false}, // Don Omar
   {"id": 68, "nombre": "QmFkIEJ1bm55", "desbloqueado": false}, // Bad Bunny
   {"id": 69, "nombre": "V2lsbCBGZXJyZWxs", "desbloqueado": false}, // Will Ferrell
-  {"id": 70, "nombre": "TWljaGFlbCBTamFja2Zvbg==", "desbloqueado": false}, // Michael Jackson
+  {"id": 70, "nombre": "TWljaGFlbCBKYWNrc29u", "desbloqueado": false}, // Michael Jackson
   {"id": 71, "nombre": "RWwgS29tYW5jaGU=", "desbloqueado": false}, // El Komanche
   {"id": 72, "nombre": "RWwgTWFyaWFuYQ==", "desbloqueado": false}, // El Mariana
   {"id": 73, "nombre": "RWwgUnViaXVz", "desbloqueado": false}, // El Rubius
@@ -81,7 +81,7 @@
   {"id": 80, "nombre": "QXJpZWwgTWlyYW1vbnRlcw==", "desbloqueado": false}, // Ariel Miramontes
   {"id": 81, "nombre": "QWRyaWFuIFVyaWJl", "desbloqueado": false}, // Adrian Uribe
   {"id": 82, "nombre": "Q2hhYmVsbw==", "desbloqueado": false}, // Chabelo
-  {"id": 83, "nombre": "QXVyb3JhcGxheQ==", "desbloqueado": false}, // Auronplay
+  {"id": 83, "nombre": "QXVyb25wbGF5", "desbloqueado": false}, // Auronplay
   {"id": 84, "nombre": "THVpc2l0byBDb211bmljYQ==", "desbloqueado": false}, // Luisito Comunica
   {"id": 85, "nombre": "S3lsaWFuIE1iYXBwZQ==", "desbloqueado": false}, // Kylian Mbappe
   {"id": 86, "nombre": "QXZpY2lp", "desbloqueado": false}, // Avicii
@@ -89,16 +89,16 @@
   {"id": 88, "nombre": "QnJ1bm8gTWFycw==", "desbloqueado": false}, // Bruno Mars
   {"id": 89, "nombre": "QWRhbSBMZXZpbmU=", "desbloqueado": false}, // Adam Levine
   {"id": 90, "nombre": "VmFsZW50aW4gRWxpemFsZGU=", "desbloqueado": false}, // Valentin Elizalde
-  {"id": 91, "nombre": "TGlhb Liam Payne==", "desbloqueado": false}, // Liam Payne
+  {"id": 91, "nombre": "TGlhbSBQYXluZQ==", "desbloqueado": false}, // Liam Payne
   {"id": 92, "nombre": "TmlhbGwgSG9yYW4=", "desbloqueado": false}, // Niall Horan
   {"id": 93, "nombre": "SGFycnkgU3R5bGVz", "desbloqueado": false}, // Harry Styles
-  {"id": 94, "nombre": "TXIrQmVhbg==", "desbloqueado": false}, // Mr Bean
-  {"id": 95, "nombre": "TXIrQmVhc3Q=", "desbloqueado": false}, // Mr Beast
+  {"id": 94, "nombre": "TXIgQmVhbg==", "desbloqueado": false}, // Mr Bean
+  {"id": 95, "nombre": "TXIgQmVhc3Q=", "desbloqueado": false}, // Mr Beast
   {"id": 96, "nombre": "SiBCYWx2aW4=", "desbloqueado": false}, // J Balvin
   {"id": 97, "nombre": "R2VyYXJkIFBpcXXDqQ==", "desbloqueado": false}, // Gerard Piqué
   {"id": 98, "nombre": "Sm9obiBDZW5h", "desbloqueado": false}, // John Cena
   {"id": 99, "nombre": "RGF2aWQgQmVja2Ft", "desbloqueado": false}, // David Beckham
-  {"id": 100, "nombre": "RHVha2UgQmVsbA==", "desbloqueado": false}, // Drake Bell
+  {"id": 100, "nombre": "RHJha2UgQmVsbA==", "desbloqueado": false}, // Drake Bell
   {"id": 101, "nombre": "TWlzYXNpbmZvbmlh", "desbloqueado": false}, // Misasinfonia
   {"id": 102, "nombre": "S3Vubm8=", "desbloqueado": false}, // Kunno
   {"id": 103, "nombre": "T2N0YXZpbyBPY2HDsWE=", "desbloqueado": false}, // Octavio Ocaña
@@ -112,14 +112,14 @@
   {"id": 111, "nombre": "SGFu", "desbloqueado": false}, // Han
   {"id": 112, "nombre": "U2FudGEgRmUgQ2xhbg==", "desbloqueado": false}, // Santa Fe Klan
   {"id": 113, "nombre": "TWFudWVsIE5ldWVy", "desbloqueado": false}, // Manuel Neuer
-  {"id": 114, "nombre": "Um9pZXI=", "desbloqueado": false}, // Rozier
-  {"id": 115, "nombre": "SXIshowspped==", "desbloqueado": false}, // Ishowspeed
+  {"id": 114, "nombre": "Um9pZXI=", "desbloqueado": false}, // Roier
+  {"id": 115, "nombre": "SXNob3dzcGVlZA==", "desbloqueado": false}, // Ishowspeed
   {"id": 116, "nombre": "THVwaWxsbyBSaXZlcmE=", "desbloqueado": false}, // Lupillo Rivera
   {"id": 117, "nombre": "RWwgTWlsbG9uYXJpbw==", "desbloqueado": false}, // El Millonario
   {"id": 118, "nombre": "QWxlbWFu", "desbloqueado": false}, // Aleman
   {"id": 119, "nombre": "SnVuaW9yIEg=", "desbloqueado": false}, // Junior H
   {"id": 120, "nombre": "Q3JpcyBNSg==", "desbloqueado": false}, // Cris MJ
-  {"id": 121, "nombre": "QmFpbmNvcyBEaWVyYXM=", "desbloqueado": false}, // Blancos Dieras
+  {"id": 121, "nombre": "QnJpbmNvcyBEaWVyYXM=", "desbloqueado": false}, // Brincos Dieras
   {"id": 122, "nombre": "SWNlIEN1YmU=", "desbloqueado": false}, // Ice Cube
   {"id": 123, "nombre": "TmF0YW5hZWwgQ2Fubw==", "desbloqueado": false}, // Natanael Cano
   {"id": 124, "nombre": "WFhYVGVudGFjaW9u", "desbloqueado": false}, // XXXTentacion
@@ -145,7 +145,7 @@
   {"id": 144, "nombre": "QWxhbiBXYWxrZXI=", "desbloqueado": false}, // Alan Walker
   {"id": 145, "nombre": "U2VhbiBQYXVs", "desbloqueado": false}, // Sean Paul
   {"id": 146, "nombre": "Q2hlc3RlciBCZW5uaW5ndG9u", "desbloqueado": false}, // Chester Bennington
-  {"id": 147, "nombre": "VmlzaW4=", "desbloqueado": false}, // Wisin
+  {"id": 147, "nombre": "V2lzaW4=", "desbloqueado": false}, // Wisin
   {"id": 148, "nombre": "UG9ydGE=", "desbloqueado": false}, // Porta
   {"id": 149, "nombre": "QmF0aXN0YQ==", "desbloqueado": false}, // Batista
   {"id": 150, "nombre": "RmxvIFJpZGE=", "desbloqueado": false}, // Flo Rida
@@ -178,27 +178,27 @@
   {"id": 177, "nombre": "TWFydGluIEdhcnJpeA==", "desbloqueado": false}, // Martin Garrix
   {"id": 178, "nombre": "TWFudWVsIFR1cml6bw==", "desbloqueado": false}, // Manuel Turizo
   {"id": 179, "nombre": "TmV0b24gVmVnYQ==", "desbloqueado": false}, // Neton Vega
-  {"id": 180, "nombre": "QWakoW4=", "desbloqueado": false}, // Akon
+  {"id": 180, "nombre": "QWtvbg==", "desbloqueado": false}, // Akon
   {"id": 181, "nombre": "VXNoZXI=", "desbloqueado": false}, // Usher
   {"id": 182, "nombre": "VGllc3Rv", "desbloqueado": false}, // Tiesto
   {"id": 183, "nombre": "RWwgTWFsaWxsYQ==", "desbloqueado": false}, // El Malilla
   {"id": 184, "nombre": "RWwgQm9ndWV0bw==", "desbloqueado": false}, // El Bogueto
   {"id": 185, "nombre": "R2FiaXRvIEJhbGxlc3Rlcm9z", "desbloqueado": false}, // Gabito Ballesteros
   {"id": 186, "nombre": "S2VuZHJpY2sgTGFtYXI=", "desbloqueado": false}, // Kendrick Lamar
-  {"id": 187, "nombre": "Vml6IEtoYWxpZmE=", "desbloqueado": false}, // Wiz Khalifa
+  {"id": 187, "nombre": "V2l6IEtoYWxpZmE=", "desbloqueado": false}, // Wiz Khalifa
   {"id": 188, "nombre": "UmljaCBUaGUgS2lk", "desbloqueado": false}, // Rich The Kid
   {"id": 189, "nombre": "U2hhZ2d5", "desbloqueado": false}, // Shaggy
   {"id": 190, "nombre": "Qml6YXJyYXA=", "desbloqueado": false}, // Bizarrap
   {"id": 191, "nombre": "UGVwZSBBZ3VpbGFy", "desbloqueado": false}, // Pepe Aguilar
   {"id": 192, "nombre": "T3NjYXIgTWF5ZG9u", "desbloqueado": false}, // Oscar Maydon
-  {"id": 193, "nombre": "VmlsbGl0bw==", "desbloqueado": false}, // Villito
+  {"id": 193, "nombre": "V2lsbGl0bw==", "desbloqueado": false}, // Willito
   {"id": 194, "nombre": "RmFycnVrbw==", "desbloqueado": false}, // Farruko
-  {"id": 195, "nombre": "Q9sZHBswYXk=", "desbloqueado": false}, // Coldplay
+  {"id": 195, "nombre": "Q29sZHBsYXk=", "desbloqueado": false}, // Coldplay
   {"id": 196, "nombre": "VHlyZXNlIEdpYnNvbg==", "desbloqueado": false}, // Tyrese Gibson
-  {"id": 197, "nombre": "Sm9lb Joel Kinnaman==", "desbloqueado": false}, // Joel Kinnaman
+  {"id": 197, "nombre": "Sm9lbCBLaW5uYW1hbg==", "desbloqueado": false}, // Joel Kinnaman
   {"id": 198, "nombre": "SWRyaXMgRWxiYQ==", "desbloqueado": false}, // Idris Elba
   {"id": 199, "nombre": "Q8Opc2FyIEJvbm8=", "desbloqueado": false}, // César Bono
-  {"id": 200, "nombre": "Sm9yZ2 Jorge T3J0aXogZGUgUGluZWRv", "desbloqueado": false}, // Jorge Ortiz de Pinedo
+  {"id": 200, "nombre": "Sm9yZ2UgT3J0aXogZGUgUGluZWRv", "desbloqueado": false}, // Jorge Ortiz de Pinedo
   {"id": 201, "nombre": "U3RldmUgQW9raQ==", "desbloqueado": false}, // Steve Aoki
   {"id": 202, "nombre": "RWwgQ2hpY2hhcml0bw==", "desbloqueado": false}, // El Chicharito
   {"id": 203, "nombre": "TWlsbyBK", "desbloqueado": false}, // Milo J
