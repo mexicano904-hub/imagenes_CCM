@@ -1,0 +1,610 @@
+[
+  {
+    "id": 1,
+    "titulo": "MIDZY",
+    "descripcion": "Colecciona a todas las integrantes de ITZY",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros1.webp",
+    "idsRequeridos": [5001, 5002, 5003, 5004, 5005],
+    "puntos": 30
+  },
+  {
+    "id": 2,
+    "titulo": "BLINK",
+    "descripcion": "Colecciona a todas las integrantes de BLACKPINK",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros2.webp",
+    "idsRequeridos": [5006, 5007, 5008, 5009],
+    "puntos": 25
+  },
+  {
+    "id": 3,
+    "titulo": "FEARLESS",
+    "descripcion": "Colecciona a todas las integrantes de LE SSERAFIM",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros3.webp",
+    "idsRequeridos": [5010, 5011, 5012, 5013, 5014],
+    "puntos": 30
+  },
+  {
+    "id": 4,
+    "titulo": "MY World",
+    "descripcion": "Colecciona a todas las integrantes de aespa",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros4.webp",
+    "idsRequeridos": [5015, 5016, 5017, 5018],
+    "puntos": 25
+  },
+  {
+    "id": 5,
+    "titulo": "MONSTIEZ",
+    "descripcion": "Colecciona a todas las integrantes de BABYMONSTER",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros5.webp",
+    "idsRequeridos": [5019, 5020, 5021, 5022, 5023, 5024, 5025],
+    "puntos": 45
+  },
+  {
+    "id": 6,
+    "titulo": "ONCE Forever",
+    "descripcion": "Colecciona a todas las integrantes de TWICE",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros6.webp",
+    "idsRequeridos": [5026, 5027, 5028, 5029, 5030, 5031, 5032, 5033, 5034],
+    "puntos": 60
+  },
+  {
+    "id": 7,
+    "titulo": "NSWER",
+    "descripcion": "Colecciona a todas las integrantes de NMIXX",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros7.webp",
+    "idsRequeridos": [5035, 5036, 5037, 5038, 5039, 5040, 5041],
+    "puntos": 40
+  },
+  {
+    "id": 8,
+    "titulo": "Neverland",
+    "descripcion": "Colecciona a todas las integrantes de Idle",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros8.webp",
+    "idsRequeridos": [5042, 5043, 5044, 5045, 5046, 5047],
+    "puntos": 30
+  },
+  {
+    "id": 9,
+    "titulo": "DIVE",
+    "descripcion": "Colecciona a todas las integrantes de IVE",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros9.webp",
+    "idsRequeridos": [5048, 5049, 5050, 5051, 5052, 5053],
+    "puntos": 40
+  },
+  {
+    "id": 10,
+    "titulo": "ARMY Purple",
+    "descripcion": "Colecciona a todos los miembros de BTS",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros10.webp",
+    "idsRequeridos": [42, 43, 44, 45, 46, 47, 48],
+    "puntos": 45
+  },
+  {
+    "id": 11,
+    "titulo": "Directioner",
+    "descripcion": "Colecciona a Harry, Liam y Niall",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros11.webp",
+    "idsRequeridos": [91, 92, 93],
+    "puntos": 20
+  },
+  {
+    "id": 12,
+    "titulo": "La Vecindad",
+    "descripcion": "Reúne a Chespirito, Sr. Barriga y Florinda Meza",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros12.webp",
+    "idsRequeridos": [110, 109, 5109],
+    "puntos": 20
+  },
+  {
+    "id": 13,
+    "titulo": "Inmortales de México",
+    "descripcion": "Consigue a Chabelo, Chalino, Joan Sebastian, Juan Gabriel y Jose Jose",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros13.webp",
+    "idsRequeridos": [82, 214, 215, 210, 227],
+    "puntos": 30
+  },
+  {
+    "id": 14,
+    "titulo": "Voz de México",
+    "descripcion": "Consigue a Angela Aguilar, Majo, Selena y Jenni Rivera",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros14.webp",
+    "idsRequeridos": [5114, 5153, 5161, 5140],
+    "puntos": 25
+  },
+  {
+    "id": 15,
+    "titulo": "Diva de Divas",
+    "descripcion": "Consigue a Salma Hayek, Thalía y JLo",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros15.webp",
+    "idsRequeridos": [5082, 5174, 5060],
+    "puntos": 20
+  },
+  {
+    "id": 16,
+    "titulo": "Corridos Tumbados",
+    "descripcion": "Consigue a Peso Pluma, Natanael, Junior H, Gabito y Calle24",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros16.webp",
+    "idsRequeridos": [36, 123, 119, 185, 232],
+    "puntos": 30
+  },
+  {
+    "id": 17,
+    "titulo": "Comediante de Oro",
+    "descripcion": "Consigue a Eugenio Derbez, Ariel Miramontes, Adrian uribe y Franco Escamilla",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros17.webp",
+    "idsRequeridos": [79, 80, 81, 66],
+    "puntos": 25
+  },
+  {
+    "id": 18,
+    "titulo": "Spiderverso",
+    "descripcion": "Reúne a Tom Holland, Andrew Garfield y Tobey Maguire",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros18.webp",
+    "idsRequeridos": [16, 60, 63],
+    "puntos": 20
+  },
+  {
+    "id": 19,
+    "titulo": "Vengadores Unidos",
+    "descripcion": "Consigue a IronMan, Cap, Hulk, Hawkeye, Thor y Black Widow",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros19.webp",
+    "idsRequeridos": [25, 18, 59, 56, 14, 5057],
+    "puntos": 40
+  },
+  {
+    "id": 20,
+    "titulo": "Rápido y Furioso",
+    "descripcion": "Consigue a Vin Diesel, Paul Walker, Jason Statham, The Rock y Han",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros20.webp",
+    "idsRequeridos": [51, 33, 6, 196, 111],
+    "puntos": 30
+  },
+  {
+    "id": 21,
+    "titulo": "Héroes de Acción",
+    "descripcion": "Consigue a Sylvester Stallone, Arnold, Tom Cruise, Keanu y John Cena",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros21.webp",
+    "idsRequeridos": [10, 64, 50, 24, 98],
+    "puntos": 30
+  },
+  {
+    "id": 22,
+    "titulo": "Red Carpet",
+    "descripcion": "Consigue a DiCaprio, Brad Pitt, The Weeknd, Johnny Depp, Margot Robbie y Jenna Ortega",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros22.webp",
+    "idsRequeridos": [4, 19, 15, 40, 5055, 5063],
+    "puntos": 40
+  },
+  {
+    "id": 23,
+    "titulo": "Terror en el Set",
+    "descripcion": "Consigue a Negan, Vecna, Pennywise y Mia Goth",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros23.webp",
+    "idsRequeridos": [34, 37, 12, 5108],
+    "puntos": 25
+  },
+  {
+    "id": 24,
+    "titulo": "Rey del Streaming",
+    "descripcion": "Consigue a Rubius, Auron, Mariana, Speed y MrBeast",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros24.webp",
+    "idsRequeridos": [73, 83, 72, 115, 95],
+    "puntos": 30
+  },
+  {
+    "id": 25,
+    "titulo": "La Patrona",
+    "descripcion": "Consigue a Rivers gg, Ari Gameplays, Amablitz, Alana y StarYuki",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros25.webp",
+    "idsRequeridos": [5151, 5102, 5128, 5125, 5154],
+    "puntos": 30
+  },
+  {
+    "id": 26,
+    "titulo": "TikTok Stars",
+    "descripcion": "Consigue a Domelipa, Kenia Os, Charlie Damelio y Katteyes",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros26.webp",
+    "idsRequeridos": [5165, 5167, 5196, 5164],
+    "puntos": 25
+  },
+  {
+    "id": 27,
+    "titulo": "El GOAT",
+    "descripcion": "Ten a Messi, Cristiano Ronaldo y Neymar Jr",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros27.webp",
+    "idsRequeridos": [3, 5, 134],
+    "puntos": 20
+  },
+  {
+    "id": 28,
+    "titulo": "Promesas del Mañana",
+    "descripcion": "Consigue a Yamal, Haaland y Mbappé",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros28.webp",
+    "idsRequeridos": [65, 151, 85],
+    "puntos": 20
+  },
+  {
+    "id": 29,
+    "titulo": "Leyendas del Campo",
+    "descripcion": "Consigue a Manuel Neuer, David Beckham y Gerard Piqué",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros29.webp",
+    "idsRequeridos": [99, 113, 97],
+    "puntos": 20
+  },
+  {
+    "id": 30,
+    "titulo": "Herederas de Nick",
+    "descripcion": "Consigue a Victoria Justice, Jennette McCurdy, Miranda Cosgrove, Jade y Daniella Monet",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros30.webp",
+    "idsRequeridos": [5094, 5091, 5092, 5096, 5126],
+    "puntos": 30
+  },
+  {
+    "id": 31,
+    "titulo": "Chicas Disney",
+    "descripcion": "Consigue a Miley Cyrus, Selena Gomez, Sabrina Carpenter y Ariana Grande",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros31.webp",
+    "idsRequeridos": [5074, 5075, 5138, 5068],
+    "puntos": 25
+  },
+  {
+    "id": 100,
+    "titulo": "Cazatalentos",
+    "descripcion": "Desbloquea 20 personajes en total",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros32.webp",
+    "idsRequeridos": [],
+    "puntos": 20
+  },
+  {
+    "id": 101,
+    "titulo": "Manager de Estrellas",
+    "descripcion": "Desbloquea 50 personajes en total",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros33.webp",
+    "idsRequeridos": [],
+    "puntos": 30
+  },
+  {
+    "id": 102,
+    "titulo": "Dueño de la Industria",
+    "descripcion": "Desbloquea 150 personajes en total",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros34.webp",
+    "idsRequeridos": [],
+    "puntos": 75
+  },
+  {
+    "id": 103,
+    "titulo": "Coleccionista Legendario",
+    "descripcion": "Desbloquea 300 personajes en total",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros35.webp",
+    "idsRequeridos": [],
+    "puntos": 150
+  },
+  {
+    "id": 104,
+    "titulo": "CCM God Mode",
+    "descripcion": "Desbloquea a los 468 personajes",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros36.webp",
+    "idsRequeridos": [],
+    "puntos": 250
+  },
+  {
+    "id": 210,
+    "titulo": "Clarividencia",
+    "descripcion": "Adivina 10 siluetas seguidas sin un solo error en el modo ¿Quién es?",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros37.webp",
+    "idsRequeridos": [],
+    "puntos": 5
+  },
+  {
+    "id": 211,
+    "titulo": "Instinto Maestro",
+    "descripcion": "Adivina un personaje en menos de 2 segundos en el modo ¿Quién es?",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros38.webp",
+    "idsRequeridos": [],
+    "puntos": 3
+  },
+  {
+    "id": 212,
+    "titulo": "Sombras Dominadas",
+    "descripcion": "Adivina a 50 personajes diferentes en el modo ¿Quién es?",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros39.webp",
+    "idsRequeridos": [],
+    "puntos": 50
+  },
+  {
+    "id": 213,
+    "titulo": "Visión Infinitum",
+    "descripcion": "Has adivinado 100 personajes en el Modo ¿Quién es?",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros40.webp",
+    "idsRequeridos": [],
+    "puntos": 100
+  },
+  {
+    "id": 300,
+    "titulo": "Mente Fotográfica",
+    "descripcion": "Gana una partida de 8 pares contra la IA en el Modo Memorama",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros41.webp",
+    "idsRequeridos": [],
+    "puntos": 5
+  },
+  {
+    "id": 301,
+    "titulo": "Cerebro de Elefante",
+    "descripcion": "Gana una partida de 16 pares contra la IA en el Modo Memorama",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros42.webp",
+    "idsRequeridos": [],
+    "puntos": 25
+  },
+  {
+    "id": 302,
+    "titulo": "Ni una oportunidad",
+    "descripcion": "Gana 8 pares y deja a la IA con 0 puntos en el Modo Memorama",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros43.webp",
+    "idsRequeridos": [],
+    "puntos": 25
+  },
+  {
+    "id": 303,
+    "titulo": "Memoria de Acero",
+    "descripcion": "Encuentra 3 pares seguidos en el mismo turno en el Modo Memorama",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros44.webp",
+    "idsRequeridos": [],
+    "puntos": 15
+  },
+  {
+    "id": 400,
+    "titulo": "Primer Gran Salto",
+    "descripcion": "Gana tu primera apuesta en un torneo de 8 jugadores",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros45.webp",
+    "idsRequeridos": [],
+    "puntos": 10
+  },
+  {
+    "id": 401,
+    "titulo": "Estratega de Elite",
+    "descripcion": "Gana tu primera apuesta en un torneo de 16 jugadores",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros46.webp",
+    "idsRequeridos": [],
+    "puntos": 50
+  },
+  {
+    "id": 402,
+    "titulo": "El Elegido de los Dioses",
+    "descripcion": "Gana la apuesta máxima en un torneo de 32 jugadores",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros47.webp",
+    "idsRequeridos": [],
+    "puntos": 100
+  },
+  {
+    "id": 403,
+    "titulo": "Doble Corona",
+    "descripcion": "Gana un torneo de hombres y uno de mujeres en modo apuesta",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros48.webp",
+    "idsRequeridos": [],
+    "puntos": 50
+  },
+  {
+    "id": 500,
+    "titulo": "Ojo de Halcón",
+    "descripcion": "Gana una partida de Impostor sin fallar ninguna vida",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros49.webp",
+    "idsRequeridos": [],
+    "puntos": 5
+  },
+  {
+    "id": 501,
+    "titulo": "Deducción Maestra",
+    "descripcion": "Gana en Impostor antes de que la IA haga 4 preguntas",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros50.webp",
+    "idsRequeridos": [],
+    "puntos": 20
+  },
+  {
+    "id": 600,
+    "titulo": "¡Buenas!",
+    "descripcion": "Gana tu primera partida de Lotería llenando la tabla",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros51.webp",
+    "idsRequeridos": [],
+    "puntos": 3
+  },
+  {
+    "id": 601,
+    "titulo": "Reflejos de Lince",
+    "descripcion": "Marca 5 personajes antes que la IA en una misma partida de lotería",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros52.webp",
+    "idsRequeridos": [],
+    "puntos": 5
+  },
+  {
+    "id": 602,
+    "titulo": "Suerte del Principiante",
+    "descripcion": "Consigue el premio de las 4 esquinas antes de que pasen 10 cartas en el modo lotería",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros53.webp",
+    "idsRequeridos": [],
+    "puntos": 10
+  },
+  {
+    "id": 603,
+    "titulo": "Cartón Imbatible",
+    "descripcion": "Gana una partida de Lotería sin que la IA logre marcar más de 5 cartas",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros54.webp",
+    "idsRequeridos": [],
+    "puntos": 20
+  },
+  {
+    "id": 604,
+    "titulo": "Maestro Gritón",
+    "descripcion": "Gana 10 partidas de Lotería en total",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros55.webp",
+    "idsRequeridos": [],
+    "puntos": 25
+  },
+  {
+    "id": 700,
+    "titulo": "Iniciando la colección",
+    "descripcion": "Consigue tu primer rango de Bronce con cualquier personaje en el Modo Puzzle.",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros56.webp",
+    "idsRequeridos": [],
+    "puntos": 5
+  },
+  {
+    "id": 701,
+    "titulo": "Toque de Midas",
+    "descripcion": "Lleva a 5 personajes diferentes al rango de Oro en el Modo Puzzle.",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros57.webp",
+    "idsRequeridos": [],
+    "puntos": 25
+  },
+  {
+    "id": 702,
+    "titulo": "Club de Diamante",
+    "descripcion": "Alcanza el rango máximo (Diamante) con un personaje en el Modo Puzzle.",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros58.webp",
+    "idsRequeridos": [],
+    "puntos": 30
+  },
+  {
+    "id": 703,
+    "titulo": "Maestro Multitarea",
+    "descripcion": "Resuelve al menos un puzzle en cada dificultad (Fácil, Normal y Difícil).",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros59.webp",
+    "idsRequeridos": [],
+    "puntos": 30
+  },
+  {
+    "id": 800,
+    "titulo": "Magnate Digital",
+    "descripcion": "Compra 10 propiedades en una sola partida en el Modo Turista",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros60.webp",
+    "idsRequeridos": [],
+    "puntos": 10
+  },
+  {
+    "id": 801,
+    "titulo": "Electricista",
+    "descripcion": "Lleva una propiedad al nivel máximo (3 estrellas) en el Modo Turista",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros61.webp",
+    "idsRequeridos": [],
+    "puntos": 5
+  },
+  {
+    "id": 802,
+    "titulo": "Solo de visita",
+    "descripcion": "Cae 3 veces en la casilla de la Cárcel caminando en el Modo Turista",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros62.webp",
+    "idsRequeridos": [],
+    "puntos": 3
+  },
+  {
+    "id": 803,
+    "titulo": "Destino Inevitable",
+    "descripcion": "Sé deportado a la cárcel 2 veces en la misma partida en el Modo Turista",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros63.webp",
+    "idsRequeridos": [],
+    "puntos": 5
+  },
+  {
+    "id": 804,
+    "titulo": "Cobrador a Domicilio",
+    "descripcion": "Cobra una renta de más de $3,000 en el Modo Turista",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros64.webp",
+    "idsRequeridos": [],
+    "puntos": 10
+  },
+  {
+    "id": 805,
+    "titulo": "Salvado por la Campana",
+    "descripcion": "Gana la partida después de haber tenido menos de $1,000 en el Modo Turista",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros65.webp",
+    "idsRequeridos": [],
+    "puntos": 15
+  },
+  {
+    "id": 806,
+    "titulo": "Monopolio Total",
+    "descripcion": "Sé dueño de todas las propiedades de un mismo color en el Modo Turista",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros66.webp",
+    "idsRequeridos": [],
+    "puntos": 5
+  },
+  {
+    "id": 807,
+    "titulo": "Imparable",
+    "descripcion": "Gana la partida sin haber vendido ninguna propiedad en el Modo Turista",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros67.webp",
+    "idsRequeridos": [],
+    "puntos": 10
+  },
+  {
+    "id": 900,
+    "titulo": "Depredador Alfa",
+    "descripcion": "Alcanza el primer lugar en el Ranking en el Modo Evolucion",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros68.webp",
+    "idsRequeridos": [],
+    "puntos": 3
+  },
+  {
+    "id": 901,
+    "titulo": "Célula Inmortal",
+    "descripcion": "Gana la partida sin haber chocado con un solo virus en el Modo Evolucion",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros69.webp",
+    "idsRequeridos": [],
+    "puntos": 5
+  },
+  {
+    "id": 902,
+    "titulo": "División Táctica",
+    "descripcion": "Usa el Split para absorber a un enemigo en el Modo Evolucion",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros70.webp",
+    "idsRequeridos": [],
+    "puntos": 3
+  },
+  {
+    "id": 903,
+    "titulo": "Crecimiento Acelerado",
+    "descripcion": "Alcanza un radio de 500 en menos de 1 minuto en el Modo Evolucion",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros71.webp",
+    "idsRequeridos": [],
+    "puntos": 5
+  },
+  {
+    "id": 904,
+    "titulo": "Superviviente",
+    "descripcion": "Gana una partida después de haber bajado de 70 de radio en el Modo Evolucion",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros72.webp",
+    "idsRequeridos": [],
+    "puntos": 6
+  },
+  {
+    "id": 1000,
+    "titulo": "La Vida Soñada",
+    "descripcion": "Obtén la Casa de Lujo, el Perro y el Lamborghini en una misma historia de Vida Futura en el Modo Cronica",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros73.webp",
+    "idsRequeridos": [],
+    "puntos": 10
+  },
+  {
+    "id": 1001,
+    "titulo": "Traición de Sangre",
+    "descripcion": "El cerebor del plan resultó ser quien te abandonó con el botín en el Atraco al Banco en el Modo Cronica",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros74.webp",
+    "idsRequeridos": [],
+    "puntos": 5
+  },
+  {
+    "id": 1002,
+    "titulo": "Boda Sangrienta",
+    "descripcion": "Tu propia pareja es quien estaba encubierta para asesinarte en la boda en el Modo Cronica",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros75.webp",
+    "idsRequeridos": [],
+    "puntos": 5
+  },
+  {
+    "id": 1003,
+    "titulo": "Lector Omnisciente",
+    "descripcion": "Explora y completa todos los escenarios disponibles en el Modo Crónica",
+    "imagen": "https://raw.githubusercontent.com/mexicano904-hub/imagenes_CCM/main/logros/imglogros76.webp",
+    "idsRequeridos": [],
+    "puntos": 10
+  }
+]
